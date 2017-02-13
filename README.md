@@ -1,0 +1,2 @@
+# MonProjet
+ This project consists in creating a small model of an advertising panel controlled by an Androîd application. Indeed, this application contains at least two buttons to change the content or message in the panel. Our goal is the simplicity of the message entry to be displayed and the wireless transmission of the message to the advertising panels based on an Arduino board and LED matrices as required and an application Androïd.
